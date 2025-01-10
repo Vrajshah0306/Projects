@@ -86,7 +86,7 @@ Feel free to reach out to me for feedback, collaboration, or just to connect:
 
 - **Email**: [vrajrshah@yahoo.com](mailto:vrajrshah@yahoo.com)
 - **GitHub**: [Your GitHub Profile Link](#)
-- **Linkedln**: [www.linkedin.com/in/vraj-shah-4789792a1]
+- **Linkedln**: [Linkedln](#www.linkedin.com/in/vraj-shah-4789792a1)
 
 ---
 
