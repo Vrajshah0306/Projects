@@ -5,9 +5,8 @@ Welcome to my project portfolio! Here you'll find a collection of projects I hav
 
 ## Table of Contents
 1. [Bill Calculator](#bill-calculator)
-2. [Project 2 Placeholder](#Tic-Tac-Toe)
-3. [Project 3 Placeholder](#project-3-placeholder)
-
+2. [Tic-Tac-Toe](#Tic-Tac-Toe)
+   
 ---
 
 ## Bill Calculator
@@ -32,8 +31,8 @@ The **Bill Calculator** is a simple and user-friendly web application designed t
 - Gained confidence in working with JavaScript and manipulating the DOM.
 
 **Links**:
-- [Source Code](#) (Replace `#` with the actual link to my GitHub repository)
-- [Live Demo](#) (Replace `#` with the link to the live version)
+- [Source Code](https://github.com/Vrajshah0306/BillCalculator)
+- [Live Demo](https://vrajshah0306.github.io/BillCalculator/)
 
 
 ---
@@ -61,8 +60,8 @@ The **Bill Calculator** is a simple and user-friendly web application designed t
 - Designed a dynamic interface with color scheme toggling and responsive feedback.
 
 **Links**:
-- [Source Code](#) (Replace `#` with the actual link to your GitHub repository)
-- [Live Demo](#) (Replace `#` with the link to the live version)
+- [Source Code](https://github.com/Vrajshah0306/Tic-Tac-Toe)
+- [Live Demo](https://vrajshah0306.github.io/Tic-Tac-Toe/)
 
 ---
 
