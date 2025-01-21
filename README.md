@@ -5,7 +5,7 @@ Welcome to my project portfolio! Here you'll find a collection of projects I hav
 
 ## Table of Contents
 1. [Bill Calculator](#bill-calculator)
-2. [Project 2 Placeholder](#project-2-placeholder)
+2. [Project 2 Placeholder](#Tic-Tac-Toe)
 3. [Project 3 Placeholder](#project-3-placeholder)
 
 ---
@@ -33,46 +33,36 @@ The **Bill Calculator** is a simple and user-friendly web application designed t
 
 **Links**:
 - [Source Code](#) (Replace `#` with the actual link to my GitHub repository)
+- [Live Demo](#) (Replace `#` with the link to the live version)
+
 
 ---
 
-## Project 2 Placeholder
+## Tic-Tac-Toe
 
 **Description**:  
-*Brief overview of your second project goes here.*
+**Tic-Tac-Toe** is a simple web-based game that allows two players to play the classic game of Tic-Tac-Toe. The game keeps track of scores, highlights the winning boxes, and features an option to toggle color schemes for the board.
 
 **Features**:
-- Key feature 1
-- Key feature 2
-- Key feature 3
+- Two-player functionality with alternating turns.
+- Score tracking for Player X, Player O, and draws.
+- Win detection and highlighting of the winning boxes.
+- Reset options: reset the board, scores, or everything.
+- Toggle between two color schemes for the board.
 
 **Technologies Used**:
-- **Language/Technology 1**
-- **Language/Technology 2**
+- **HTML**: For structuring the webpage.
+- **CSS**: For styling the interface.
+- **JavaScript**: For implementing the game logic, win detection, and interactivity.
+
+**Challenges Solved**:
+- Implemented win detection logic to identify winners and handle draws.
+- Ensured user inputs were validated to prevent multiple clicks on the same square.
+- Designed a dynamic interface with color scheme toggling and responsive feedback.
 
 **Links**:
-- [Source Code](#)
-- [Live Demo](#)
-
----
-
-## Project 3 Placeholder
-
-**Description**:  
-*Brief overview of your third project goes here.*
-
-**Features**:
-- Key feature 1
-- Key feature 2
-- Key feature 3
-
-**Technologies Used**:
-- **Language/Technology 1**
-- **Language/Technology 2**
-
-**Links**:
-- [Source Code](#)
-- [Live Demo](#)
+- [Source Code](#) (Replace `#` with the actual link to your GitHub repository)
+- [Live Demo](#) (Replace `#` with the link to the live version)
 
 ---
 
@@ -87,7 +77,7 @@ Feel free to reach out to me for feedback, collaboration, or just to connect:
 - **Email**: [vrajrshah@yahoo.com](mailto:vrajrshah@yahoo.com)
 - **GitHub**: [Your GitHub Profile Link](#)
 - **Linkedln**: [www.linkedin.com/in/vraj-shah-4789792a1]
-- **Handshake**: [Enter here]
+- **Handshake**: [https://rutgers.joinhandshake.com/profiles/hmfrht]
 
 ---
 
